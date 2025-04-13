@@ -9,8 +9,8 @@
 - **Inspiration**: Based on the mechanics of Flappy Bird
 
 ## Licenses
-- **Background Image**: The background image used in this project is licensed under [background_license]. See `Assets/Licenses/background_license.txt` for more details.
-- **Font**: The font used in this project is licensed under [font_license]. See `Assets/Licenses/font_license.txt` for more details.
+- **Background Image**: The background image used in this project is licensed under [background_license](Assets/Licenses/background_license.txt). 
+- **Font**: The font used in this project is licensed under [font_license](Assets/Licenses/font_license.txt).
 
 ## Disclaimer:
 This is a non-commercial educational project created for the purpose of learning game development. It is not intended for sale or distribution for profit.
