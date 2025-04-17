@@ -20,4 +20,4 @@
   See `Assets/Licenses/font_license.txt` for more details.
 
 ## Disclaimer:
-This is a non-commercial educational project created for the purpose of learning game development. It is not intended for sale or distribution for profit.
+> This is a non-commercial educational project created for the purpose of learning game development. It is not intended for sale or distribution for profit.
